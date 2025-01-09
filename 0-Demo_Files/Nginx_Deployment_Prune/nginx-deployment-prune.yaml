@@ -41,6 +41,6 @@ kind: ConfigMap
 metadata:
    name: example-configmap
    namespace: argocdappdemo
- data:
+data:
    key1: value1
    key2: value2
